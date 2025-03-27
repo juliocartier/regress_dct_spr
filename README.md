@@ -1,1 +1,1 @@
-# codigoParaLazaro
+# Regress DCT SPR
